@@ -1,7 +1,7 @@
 # INE-Footprinting-and-Scanning-CTF1
 A CTF in the eLearnSecurity Junior Penetration Testing assessments
 
-Images for the CTF can be found here: 
+Images for the CTF can be found here: https://medium.com/@ashidijoy52/ine-footprinting-and-scanning-ctf1-59a1e4ff00dd
 
 # Footprinting and Scanning CTF1 (INE)
 
